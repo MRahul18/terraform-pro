@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "storeterra" {
-    name     = "example-resources"
+    name     = "terra-azure"
     location = "East US"
 }
